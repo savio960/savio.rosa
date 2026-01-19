@@ -50,11 +50,11 @@ Sou um estudante apaixonado por **Sustentabilidade** e **Tecnologia**. Minha mis
 
 ### 📊 Minhas Estatísticas
 
-![Sávio's GitHub stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=dracula)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_AQUI&layout=compact&theme=dracula)
+![Sávio's GitHub stats](https://github-readme-stats.vercel.app/api?username=savio.rosa&show_icons=true&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=savio.rosa&layout=compact&theme=dracula)
 
 ---
 
 ### 📫 Vamos conectar?
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](LINK_DO_SEU_LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/savio-rosa-b32b64309)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:savio.augn@gmail.com)
